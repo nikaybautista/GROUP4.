@@ -11,3 +11,10 @@ Future Researchers — This study will be utilized as a reference for road traff
 The application of the analytic hierarchy process approach (AHP) was developed to examine the importance of individual factors impacting road safety. It is a multi-criteria method that allows us to do a hierarchical study of the decision-making process using expert opinions. We were able to evaluate and rank the factors that affect road safety using the AHP approach. This study will also employ an analytical approach, which will necessitate the ability to think critically as well as the evaluation of facts and information relevant to the study at hand, as well as assisting the researcher in determining the individual's level of adherence to and comprehension of traffic regulations. Tortum and Atalay (2015) used a factor analysis to find variables that had a statistically significant link with the number of traffic accidents in order to get their conclusions. According to the analysis, the data was gathered for accident purposes and would be used as a future viewpoint. Important and useful information was gathered from police and various other transportation departments for the examination of accident-related data.
 ## Expected Output
 Each country must play a significant role in identifying road safety issues, with the power and duty to make decisions, manage resources, and collaborate across all government sectors, especially health, transportation, education, and law enforcement. This research intends to provide a comprehensive and strategic road safety action plan to reduce road traffic accidents in Metro Manila, as early detection of threats can assist lower the risk.
+## Reference
+https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries
+https://www.nswcompensationlawyers.com.au/blog/national-road-safety-strategy-reducing-car-accidents/
+https://colleges.segi.edu.my/kualalumpur/principal-greetings/
+https://www.academia.edu/25820364/Road_accidents_and_Road_safety
+https://www.kaggle.com/datasets/esparko/mmda-traffic-incident-data
+https://mmda.gov.ph/images/Home/FOI/MMARAS/MMARAS_Annual_Report_2019.pdf
