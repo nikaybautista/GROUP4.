@@ -4,6 +4,7 @@ In large cities with numerous modes of transportation, accidents are common, and
 ## Problem Statement
 Road traffic accidents are a big problem nowadays. Drivers paying less attention to various site routing signage on the road, as well as a lack of awareness of road traffic accidents, which causes harm to life and other vehicle properties. The state of Metro Manila's roadways has deteriorated significantly in recent years due to a variety of factors. Increased vehicle numbers, as well as a lack of sufficient road safety, are all contributing factors. In addition, interventions and a lack of enforcement legislation are only a few instances. Overspeeding kills or injures a high number of persons on the road when drivers disregard the speed limit and drive too fast. Some drivers use their cellphones while driving, diverting their focus away from the road. 
 ## Significance of the Proposed Project
+This reserach will specifically benefit the following:
 Driver – This will assist drivers in avoiding a car accident, as well as saving them the stress and expense of a traffic ticket for a traffic infraction.
 Government — By identifying critical gaps and possibilities, this will assist the government in taking action to improve road safety.
 Future Researchers — This study will be utilized as a reference for road traffic accident researchers. This will be used as a guide to help construct the research in terms of the variables considered.
@@ -11,10 +12,4 @@ Future Researchers — This study will be utilized as a reference for road traff
 The application of the analytic hierarchy process approach (AHP) was developed to examine the importance of individual factors impacting road safety. It is a multi-criteria method that allows us to do a hierarchical study of the decision-making process using expert opinions. We were able to evaluate and rank the factors that affect road safety using the AHP approach. This study will also employ an analytical approach, which will necessitate the ability to think critically as well as the evaluation of facts and information relevant to the study at hand, as well as assisting the researcher in determining the individual's level of adherence to and comprehension of traffic regulations. Tortum and Atalay (2015) used a factor analysis to find variables that had a statistically significant link with the number of traffic accidents in order to get their conclusions. According to the analysis, the data was gathered for accident purposes and would be used as a future viewpoint. Important and useful information was gathered from police and various other transportation departments for the examination of accident-related data.
 ## Expected Output
 Each country must play a significant role in identifying road safety issues, with the power and duty to make decisions, manage resources, and collaborate across all government sectors, especially health, transportation, education, and law enforcement. This research intends to provide a comprehensive and strategic road safety action plan to reduce road traffic accidents in Metro Manila, as early detection of threats can assist lower the risk.
-## Reference
-https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries
-https://www.nswcompensationlawyers.com.au/blog/national-road-safety-strategy-reducing-car-accidents/
-https://colleges.segi.edu.my/kualalumpur/principal-greetings/
-https://www.academia.edu/25820364/Road_accidents_and_Road_safety
-https://www.kaggle.com/datasets/esparko/mmda-traffic-incident-data
-https://mmda.gov.ph/images/Home/FOI/MMARAS/MMARAS_Annual_Report_2019.pdf
+
