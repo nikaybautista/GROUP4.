@@ -5,6 +5,7 @@ In large cities with numerous modes of transportation, accidents are common, and
 Road traffic accidents are a big problem nowadays. Drivers paying less attention to various site routing signage on the road, as well as a lack of awareness of road traffic accidents, which causes harm to life and other vehicle properties. The state of Metro Manila's roadways has deteriorated significantly in recent years due to a variety of factors. Increased vehicle numbers, as well as a lack of sufficient road safety, are all contributing factors. In addition, interventions and a lack of enforcement legislation are only a few instances. Overspeeding kills or injures a high number of persons on the road when drivers disregard the speed limit and drive too fast. Some drivers use their cellphones while driving, diverting their focus away from the road. 
 ## Significance of the Proposed Project
 This reserach will specifically benefit the following:
+
 Driver – This will assist drivers in avoiding a car accident, as well as saving them the stress and expense of a traffic ticket for a traffic infraction.
 Government — By identifying critical gaps and possibilities, this will assist the government in taking action to improve road safety.
 Future Researchers — This study will be utilized as a reference for road traffic accident researchers. This will be used as a guide to help construct the research in terms of the variables considered.
