@@ -15,6 +15,7 @@ The application of the analytic hierarchy process approach (AHP) was developed t
 Each country must play a significant role in identifying road safety issues, with the power and duty to make decisions, manage resources, and collaborate across all government sectors, especially health, transportation, education, and law enforcement. This research intends to provide a comprehensive and strategic road safety action plan to reduce road traffic accidents in Metro Manila, as early detection of threats can assist lower the risk.
 
 ## References
-You may take a look for the references that are relevant to our project in [Analysis of Road Traffic Accident in Metro Manila.docx]
+You may take a look for the references that are relevant to our project in [Analysis of Road Traffic Accident in Metro Manila.docx](https://github.com/nikaybautista/Team-RTA-s/files/8460631/Analysis.of.Road.Traffic.Accident.in.Metro.Manila.docx)
+
 
  
